@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="http://aditv.my.id/logo/indosiar.png" group-title="Nasional", Indosiar
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -108,3 +108,28 @@ http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRDbn3tN/jtv-surabaya.png" group-title="Lokal", JTV Surabaya
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="", MUI TV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="", TV9 NU 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" group-title="@RIYANCODAY", AlQuran Kareem 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="@RIYANCODAY", Tawaf TV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="@RIYANCODAY", MQTV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="@RIYANCODAY", MTATV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" group-title="@RIYANCODAY", Muhammadiyah TV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="@RIYANCODAY", Rodja TV 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
+
