@@ -252,3 +252,12 @@ http://iptv.tvmalaysia.cc:80/penang192/penang192/6574
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="http://aditv.my.id/logo/super-sport.png" group-title="Olahraga",SuperSport LaLiga
 http://iptv.tvmalaysia.cc:80/penang192/penang192/6575
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3dhdWCQ" group-title="SPORTS", Champions TV 1
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3tioUNU" group-title="SPORTS", Champions TV 2
+https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3AiE1tf" group-title="SPORTS", Champions TV 3
+https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
