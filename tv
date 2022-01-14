@@ -154,16 +154,16 @@ https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="Religi", Rodja TV 
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/ahsantv.png", AHSAN TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/XYHLfxPq/ahsantv.png", AHSAN TV
 https://h1.intechmedia.net/intech/ch4.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/6p5jkwG0/surautv.png", Surau TV
 http://119.235.249.58:1935/surautv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/alimantv.png", AL-Iman TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/5y2jS5T9/alimantv.png", AL-Iman TV
 https://tv.rodja.live/aliman/HD/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/mgitv.png", MGI TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/gjhcDM4W/mgitv.png", MGI TV
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png", muadzTV
@@ -245,7 +245,7 @@ http://iptv.tvmalaysia.cc:80/penang192/penang192/6748
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Mph7dD6w/Spotv.png" group-title="Olahraga",SPOTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sgDKGbwb/Spotv.png" group-title="Olahraga",SPOTV
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
