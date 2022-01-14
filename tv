@@ -166,13 +166,13 @@ https://tv.rodja.live/aliman/HD/playlist.m3u8
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/gjhcDM4W/mgitv.png", MGI TV
 https://tv.rodja.live/tasik/mgitv/index.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png", muadzTV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/0ysG7FZ9/muadztv.png", muadzTV
 http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/JnvZ02GV/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
 
-#EXTINF:-1 group-title="Religi" tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png", Wesaltv
+#EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/mk3k4X9S/wesaltv.png", Wesaltv
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
