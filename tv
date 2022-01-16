@@ -101,6 +101,9 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd 
 
+#EXTINF:-1 group-title="Nasional",O Channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYSFM1X7/nusantara-tv.png" group-title="Nasional",Nusantara TV
 https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
 
