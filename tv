@@ -244,11 +244,6 @@ https://on-load.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="Olahraga", beIN Sport 2
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJF6rmCQ/bein-sports.png" group-title="Olahraga",Bein Sports Max
-http://iptv.tvmalaysia.cc:80/penang192/penang192/6748
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/sgDKGbwb/Spotv.png" group-title="Olahraga",SPOTV
@@ -258,31 +253,6 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prJCS1W4/soccer-channel.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzvcXnQR/assp1.png" group-title="Olahraga",Astro Supersport 1
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/01?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrDKJzZ9/assp2.png" group-title="Olahraga",Astro Supersport 2
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/02?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gtw8vjw9/assp3.png" group-title="Olahraga",Astro Supersport 3
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/03?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX4MKb36/assp4.png" group-title="Olahraga",Astro Supersport 4
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/04?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Rb9hVvV/astro-arena.png" group-title="Olahraga",Astro Arena
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/05?token=TkdeVkBQEVkTVgcDAQMNAwwOUQ9QBgUFV1kGB19RBVUMXQUHBl4CUwlDSUNFQ0ZTVFQ6XwISCVcaQ0NCA0Y5XlFHDBUEGh9BRQgIBBQNBQABCFMGUgMKVxpDRlgCFlwVB1wAAgEaH0FUGREERFlVWmpdAEAPU1ZEDA9DXQoYRFhbOlJSXlldBxNbR1EUGxZfRklHDAhFXwoaQ1RYEkYHQ1BHDBUCAQFVE01HAllCWkJHQEcMRHl3RBpDU0kSUQhEXApYFQkaRxATTUcIRWhGU0ZNF1MHXVYUFFsUAUQYRFpUHWlUXFZdBlIVDA5YRBYMFwtVBkQcEQtZD19FCUY5R1wBFA0RCgVaAFlHHA==
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50jT8wqc/usee-sport.png" group-title="SPORTS",USEE SPORT 1
 http://goldentv.tech:25461/rachman/rachman/22973
