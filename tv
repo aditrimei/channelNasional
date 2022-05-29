@@ -271,12 +271,6 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/prJCS1W4/soccer-channel.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50jT8wqc/usee-sport.png" group-title="SPORTS",USEE SPORT 1
-https://www.seulangatv-online.ml/live/champions1.m3u8|User-Agent=punya=SeulangaTV
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/50jT8wqc/usee-sport.png" group-title="SPORTS",USEE SPORT 2
-https://www.seulangatv-online.ml/live/champions2.m3u8|User-Agent=punya=SeulangaTV
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="Sports",TVRI Sport
