@@ -98,7 +98,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
-#EXTINF:-1 group-title="Lokal" tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+#EXTINF:-1 group-title="Lokal" tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13",Da Ai TV
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://i.postimg.cc/HnN39XLK/ochannel.png",O Channel
