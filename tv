@@ -130,7 +130,7 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal",BALI TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lWB1g9s.png" group-title="Lokal",Tegar TV Lampung
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx36T9IUtRWqGIlW0sg_RHPFOfVedmjZH9zrPqEunf&s" group-title="Lokal",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
