@@ -104,7 +104,6 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XYSFM1X7/nusantara-tv.png" group-title="Nasional",Nusantara
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ochannel.png/640px-Ochannel.png", O Channel
 http://rr2.dens.tv/s/s41/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=U-Channel
 
