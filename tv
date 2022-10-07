@@ -20,8 +20,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkqBd3X2/indosiar.png" group-title="Nasional", Indosiar
-https://h1.intechmedia.net/nasional/ch3.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+https://etslive-2-vidio-com.akamaized.net/exp=1665159976~acl=/hls-b/ingest_10046_*/*~hmac=16f011d75a7d79521fa9186cf44ff0773be564b7fc6981f3cd90833107e92032/hls-b/ingest_10046_1080p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
