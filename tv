@@ -341,3 +341,13 @@ https://ad2017.vhls.ru.com/lb/premium126/index.m3u8?|referer=https://widevine.li
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvTkCwR4/astro.png" group-title="Olahraga",Astro Supersport 5
 http://tigerfights.xyz:80/play/jDXEKkuzPxaVJ4brxpT8E-g7CSX-p-EhpK0fmrHOwP0
 https://ad2017.vhls.ru.com/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="SPORTS",Champions TV 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="SPORTS",Champions TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="SPORTS",Champions TV 3
+http://tv.zonanime.my.id/vidio/championstv3.m3u8
