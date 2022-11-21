@@ -431,3 +431,6 @@ https://iptv-nublltsls-mwafa.vercel.app/api/vidio?id=205
 
  #EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/ochannel.png" group-title="TV NASIONAL",O Channel
 http://ruangwaktu.xyz/kampret-loc/local/ruangtv-206.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_arena_my.png" group-title="SPORTS PLUS",Astro Arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
