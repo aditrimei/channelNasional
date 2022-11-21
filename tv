@@ -416,3 +416,6 @@ http://iptvtree.net:8080/F11682/82ca5fbd/157485
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 http://iptvtree.net:8080/F11682/82ca5fbd/287793
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",sctv
+http://tvn.x10.mx/1/master-12.m3u8?dl=1
