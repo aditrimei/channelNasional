@@ -376,3 +376,42 @@ http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176201
 
 #EXTINF:-1 group-title="Olahraga",BeIn Sports Max 4
 http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176200
+
+#EXTINF:-1 group-title="WordCup", 3 HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup", True4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup", 5 HD
+http://appdootv2.dootvde.com:1935/live/50002_ch5.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup", 7 HD
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup", MCOT HD
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" NBT 
+http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup" Thai PBS
+http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" Nation
+http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" TNN 16
+http://183.89.246.119:8010/play/a00b/index.m3u8
+#EXTINF:-1 group-title="WordCup" Workpoint TV
+http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup"True4U
+http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup"G-MM 25
+http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" MONO 29
+http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup"ONE HD 31
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" Thairath
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup" Amarin TV HD
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1group-title="WordCup"  PPTV HD 36
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup"  CH 8
+http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="WordCup" ALTV by ThaiPBS
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
