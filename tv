@@ -377,6 +377,9 @@ http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176201
 #EXTINF:-1 group-title="Olahraga",BeIn Sports Max 4
 http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176200
 
+#EXTINF:-1 group-title="Olahraga",BeIn Sports Max 5
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="WordCup", 3 HD
 http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup", True4U
