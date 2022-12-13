@@ -379,7 +379,7 @@ http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup", NBT 
 http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup", Thai PBS
+#EXTINF:-1 group-title="WordCup", Thai PBS
 http://appdootv2.dootvde.com:1935/live/50006_tpbs_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup", Nation
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
@@ -387,19 +387,19 @@ http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 http://183.89.246.119:8010/play/a00b/index.m3u8
 #EXTINF:-1 group-title="WordCup", Workpoint TV
 http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup", True4U
+#EXTINF:-1 group-title="WordCup", True4U
 http://appdootv2.dootvde.com:1935/live/50017_true_4u.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup", G-MM 25
+#EXTINF:-1 group-title="WordCup", G-MM 25
 http://appdootv2.dootvde.com:1935/live/50018_gmm.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup", MONO 29
 http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup", ONE HD 31
+#EXTINF:-1 group-title="WordCup", ONE HD 31
 http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup", Thairath
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup", Amarin TV HD
+#EXTINF:-1 group-title="WordCup", Amarin TV HD
 http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
-#EXTINF:-1group-title="WordCup",  PPTV HD 36
+#EXTINF:-1 group-title="WordCup",  PPTV HD 36
 http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="WordCup",  CH 8
 http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
