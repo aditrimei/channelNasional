@@ -1,4 +1,4 @@
-#EXTM3U
+ni#EXTM3U
 ###TV NASIONAL###
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -353,16 +353,3 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&exten
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Olahraga",Astro Supersport 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
-
-#EXTINF:-1 group-title="Olahraga",BeIn Sports Max 1
-http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176203
-
-#EXTINF:-1 group-title="Olahraga",BeIn Sports Max 2
-http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176202
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94492&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="Olahraga",BeIn Sports Max 3
-http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176201
-
-#EXTINF:-1 group-title="Olahraga",BeIn Sports Max 4
-http://tt.rip:8000/Asm@Mundial@/Hamza@Asm@/176200
