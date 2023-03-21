@@ -163,7 +163,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4
 https://anevia115.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="Religi", Rodja TV 
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+https://h1.intechmedia.net/intech/ch26.m3u8
 
 #EXTINF:-1 group-title="Religi" tvg-logo="https://i.postimg.cc/XYHLfxPq/ahsantv.png", AHSAN TV
 https://h1.intechmedia.net/intech/ch4.m3u8
