@@ -355,3 +355,93 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&exten
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Olahraga",Astro Supersport 5
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH1
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH2
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH3
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH4
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH5
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH6
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH7
+https://h1.intechmedia.net/intech/ch7.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH8
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH9
+https://h1.intechmedia.net/intech/ch9.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH10
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH11
+https://h1.intechmedia.net/intech/ch11.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH12
+https://h1.intechmedia.net/intech/ch12.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH13
+https://h1.intechmedia.net/intech/ch13.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH14
+https://h1.intechmedia.net/intech/ch14.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH15
+https://h1.intechmedia.net/intech/ch15.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH16
+https://h1.intechmedia.net/intech/ch16.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH17
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH18
+https://h1.intechmedia.net/intech/ch18.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH19
+https://h1.intechmedia.net/intech/ch19.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH20
+https://h1.intechmedia.net/intech/ch20.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH21
+https://h1.intechmedia.net/intech/ch21.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH22
+https://h1.intechmedia.net/intech/ch22.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH23
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH24
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH25
+https://h1.intechmedia.net/intech/ch25.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH26
+https://h1.intechmedia.net/intech/ch26.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH27
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH28
+https://h1.intechmedia.net/intech/ch28.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH29
+https://h1.intechmedia.net/intech/ch29.m3u8
+
+#EXTINF:-1 group-title="Religi" tvg-logo="", CH30
+https://h1.intechmedia.net/intech/ch30.m3u8
