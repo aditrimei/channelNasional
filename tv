@@ -394,11 +394,6 @@ https://anevia115.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Olahraga",Sport Stars 4
-https://anevia115.mncnow.id/live/eds/MNCSports4-HD/sa_dash_vmx/MNCSports4-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5NwFmw6X/download.jpg" group-title="Olahraga",TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
