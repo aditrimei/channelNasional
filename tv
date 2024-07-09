@@ -1,11 +1,13 @@
 ###TV NASIONAL###
+#EXTINF:-1 tv-name="Kompas TV" tvg-logo="https://i.postimg.cc/MKx1g9CD/kompas-tv.png" group-title="Berita", Kompas TV
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channels",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
 https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
