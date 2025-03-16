@@ -12,7 +12,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8?checkedby:iptvcat.org
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://dl.dropboxusercontent.com/s/eqbvbf28z4cj4zw/indosiar.png", INDOSIAR
-http://xtv.ooo:8080/live/35588981/18988553/350972.ts
+##https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
