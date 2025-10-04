@@ -294,22 +294,37 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
-https://cempedak-cdn-fly.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:0 tvg-logo=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png&quot; group-title=&quot;🔴PREMIUM SPORT&quot;,Soccer channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropboxusercontent.com/s/royqep3xryxyqtv/soccer.png" group-title="Sports", Soccer Channel
-https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" group-title="TVRI Group",TVRI Sport HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142756
 
-#EXTINF:-1 group-title="00.LIVE EVENT" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png", Cadangan 1 Jepang vs Indonesia Hari Ini 17:35 WIB
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://apisportzz179528093.nsnd.live/1TW8Y5pzdE5RZOPq_1S7pw/Fv2lucGIbhPi2caWYvF5Lg/1749573000506/live/hd-en-6MsG9jCyF6Z3WRT443/chunklist.m3u8
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142757
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142758
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142759
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142760
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 7 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142761
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 8 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142752
+
+#EXTINF:-1 group-title=&quot;🔴SPORT HD&quot; tvg-logo=&quot;https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png&quot;,BEIN 9 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142734
+
