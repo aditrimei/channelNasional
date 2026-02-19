@@ -129,7 +129,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="MTATV.id" tvg-logo="https://i.ibb.co.com/Nt7wqCG/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1771519980/ei/jOuWaauEM5Ww9fwPhKDzwQo/ip/103.211.107.6/id/RPj8r8D48Iw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/0/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AVNa5-wpeFXcxeDOcHJbgcYVKyoodWAOlAwlBX62IHNOGvdSyW2rbOJTAyjbm5jN5H7ykkXXlA/spc/6dlaFEFGx2GOGN2k8IUlrZeuZ-nrDzA7i7cMkHdP7gOhBI95_ZGWSoo/vprv/1/go/1/ns/9aBecKXkA2WetU-Q7eK5uH8S/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51552689%2C51565116%2C51565681%2C51580968/dover/11/n/wtyJfGPLZpbDbMAaF/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJEij0EwRAIgMMRkyLtgjXWhJSyINg-MD8WuWapC7qmn9tqfOMLoCb4CIHJhg848AtPpaJUBI4tdIQpLFPD5mPTO7hcm5N59hHUT/file/index.m3u8
 
 #EXTINF:-1 tvg-id=&quot;&quot; tvg-logo=&quot;https://github.com/Qingtvnew/test/raw/main/galaxy-premium.png&quot; group-title=&quot;🔴PREMIUM MOVIE&quot;,Galaxy Premium
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
