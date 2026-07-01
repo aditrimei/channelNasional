@@ -25,7 +25,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_s
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 group-title=&quot;INDIHOME TV&quot;  tvg-logo=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png&quot;,ANTV
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id=&quot;4&quot; tvg-logo=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png&quot; group-title=&quot;NASIONAL&quot;,RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
